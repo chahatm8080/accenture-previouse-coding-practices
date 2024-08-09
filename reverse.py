@@ -12,4 +12,4 @@ def reverse(s):
   for i in s:
     ch=i+ch
   return ch
-print(reverse("he  low"))
+print(reverse("helow"))
