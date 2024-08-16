@@ -18,4 +18,4 @@ def rm_duplicate(arr):
       index +=1
       arr[index]=arr[i]
   return arr[:index+1]
-print(rm_duplicate([10,10,9,9,8,12,11,11]))
+print(rm_duplicate([10,10,9,9,8,11,11]))
